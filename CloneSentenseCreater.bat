@@ -1,2 +1,2 @@
-git clone https://github.com/Massas/SentenceCreater_prototype.git
+git clone https://github.com/Massas/SentenceCreater.git
 pause
